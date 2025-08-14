@@ -8,7 +8,7 @@ Compilation of SQL - Tableau integration projects for Data Analytics, Business I
 - MySQL Workbench
 - Tableau Public
 
-![Dashboard on Tableu Public](https://raw.githubusercontent.com/ptyadana/SQL-Tableau-Data-Analysis-Visualization-Projects/master/screenshot.png)
+![Dashboard on Tableu Public](https://github.com/harshada095/MySQL-Tableau-for-Data-Analytics-and-Business-Intelligence/blob/main/screenshot.png)
 
 ## Projects
 
